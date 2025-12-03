@@ -62,5 +62,4 @@ The reproducibility of this project relies on the following key external resourc
 * ⁠[Dana Al Rijjal](https://github.com/daaalrijjal)
 * [Jouri Al Daghma](https://github.com/Jourialdagh)
 
-Supervised by: **Dr. Naila Marir**
-**Course:** NLP Project – Effat University
+Supervised by: **Dr. Naila Marir** – Effat University
