@@ -44,7 +44,7 @@ You can view the interactive, published version of the slides here:
 
 ---
 
-## 📚 Data and External Resources
+## Data and External Resources
 
 The reproducibility of this project relies on the following key external resources:
 
