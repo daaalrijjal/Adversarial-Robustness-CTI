@@ -59,7 +59,8 @@ The reproducibility of this project relies on the following key external resourc
 
 ## Authors
 
-* **Dana Alrijjal**
-* **Jouri Aldaghma**
-* **Dr. Naila Marir**
-* **Course:** NLP Project – Effat University
+* ⁠[Dana Al Rijjal](https://github.com/daaalrijjal)
+* [Jouri Al Daghma](https://github.com/Jourialdagh)
+
+Supervised by: **Dr. Naila Marir**
+**Course:** NLP Project – Effat University
