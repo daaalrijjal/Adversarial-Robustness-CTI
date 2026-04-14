@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pt
+venv/
+AnnoCTR/
+outputs/
+FinalPaper/
+nltk_data/
+*.log
